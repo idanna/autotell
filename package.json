@@ -1,0 +1,14 @@
+{
+  "name": "autotell",
+  "version": "1.0.0",
+  "description": "check autotel avaiability",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "idan",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
